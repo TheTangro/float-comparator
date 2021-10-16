@@ -1,0 +1,30 @@
+{
+  "name": "float-comparator",
+  "version": "1.0.0",
+  "description": "float comparison util",
+  "main": "floatComparator.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.4.0",
+    "markdown-code-blocks": "0.0.1"
+  },
+  "scripts": {
+    "test": "markdown-code-blocks -t javascript < README.md | node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TheTangro/float-comparator.git"
+  },
+  "bugs": {
+    "type": "git",
+    "url": "git://github.com/TheTangro/float-comparator/issues"
+  },
+  "homepage": "https://github.com/TheTangro/float-comparator",
+  "keywords": [
+    "float",
+    "compare",
+    "js"
+  ],
+  "author": "Mikhail Chekavyj <mikhail.chekavyj@gmail.com>",
+  "license": "MIT"
+}
